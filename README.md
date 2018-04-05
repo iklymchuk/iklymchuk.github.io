@@ -6,4 +6,6 @@
  1. Create a new repo with the name **{username}.github.io**
  2. Clone the repo and create an index.html file
  3. Add some content and git push
- 4. Go to https://{username}.github.io
+ 4. Go to **https://{username}.github.io**
+
+Find additional favicon.ico [here](https://icons8.com/icon/new-icons/all)
